@@ -1,1 +1,0 @@
-print("Ramsey and Rachel Ice Cream")
